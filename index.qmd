@@ -88,4 +88,46 @@ Syiden ja seurauksen tunnistamisen vaikeus tulee ottaa vakavasti, mutta sen ei p
 
 ## Kuva
 
+Tämä Christian Hakulisen kuva havainnollistaa joitain keskeisiä näkökohtia tulojen ja mielenterveysongelmien välisestä suhteesta.
+
+Tässä näemme mediaanitulot ennen ja jälkeen ensimmäisen psykoosin vuoksi olleen sairaalahoitojakson. Onko tämä ero alussa psykoosin syy?
+
+Toinen tärkeä asia on mitä tapahtuu ensimmäisen hoitojakson jälkeen. Tätä kutsutaan usein valikoitumiseksi tai käänteiseksi syy-seuraussuhteeksi. Sanotaan, että olet lapsi tässä perheessä, tai tässä vertailuperheessä, mitä tämä ero saattaa merkitä sinulle terveyden määrääjien tai tulevaisuuden mahdollisuuksiesi kannalta? Tai toisin päin, mihin suuntaan tämän viivan tulisi mennä? Kiitos järjestelmämme, kokonaistulot pysyvät vakaana sairastumisen jälkeen, mutta mikä olisi optimaalisin tilanne?
+
+Virchowin lausahusa mukaillen väitän, että tämä ei ole lääketiedettä suuremmassa mittakaavassa. Tämä on politiikkaa suuremmassa mittakaavassa. Kysymys on siitä millaisia hyvinvoinnin standardeja haluamme pohjoismaisessa yhteiskunnassamme ylläpitää.
+
+Tämä väitöskirja ei tuo tähän kysymykseen mitään valmista vastusta, mutta mielestäni Suomessa, maailman onnellisimmaksi valitussa maassa, meidän pitäisi olla aktiivisempia johtamaan keskustelua tasa-arvosta ja terveydestä.
+
+Haluaisin nostaa esiin vielä kaksi asiaa:
+
+Ensinnäkin, tämä tutkimus ei käsittele tuloeroja, mutta ne ovat luonnollisesti läheisessä yhteydessä terveyden epätasa-arvoon.
+
+"Inequalities" voidaan kääntää ilmaisuilla 'epätasa-arvo' tai 'eriarvoisuus'. Ne ovat eroja, jotka ovat jollain tavalla epäoikeudenmukaisia, epäreiluja luonteeltaan, joskin englannin kieli ei ole tässä täysin johdonmukainen. Inequalities voi joskus viitata eroihin ilman mitään moraalista arviota.
+
+Onko tuloerot kasvaneet Suomessa vai ei, on kiinnostava kysymys. Valitsin olla kommentoimatta sitä väitöskirjassani, mutta nämä kaksi kuvaa valaisee asiaa:
+
+## Kuvat
+
+Ensin Gini-kerroin, jonka suuremmat arvot kuvaavat suurempia tuloeroja. Esim. Valtion taloudelllinen tutkimuslaitos juuri julkaisi raportin, jonka mukaan tuloerot eivät juurikaan ole muuttuneet 2000-luvulla.
+
+Toisessa kuvassa tulojen kehitys tulokymmenyksittäin. 1995-2022, muutos oli 26 % alimmassa tulokymmenyksessä, mutta 91 % ylimmässä.
+
+Myöhemmin katsomme muita trendejä tulokymmenyksittäin.
+
+
+## Avoin tiede
+
+Ja lopuksi: Tämän projektin ensimmäisen tutkimussuunnitelma valmistui helmikuussa 2016, sain pääsyn aineistoon maaliskuussa 2017. Ensimmäisen käsikirjoituksen valmisteluun meni 2 vuotta ja 2 kuukautta.
+
+Suurin osa siitä työstä oli opetella esikäsittelemään rekisteridataa. Jotain, mikä on pitänyt tehdä ennen jokaista rekisteritutkimusta.
+
+Se oli valtava ponnistus ja voi kysyä, kuinka järkevää on tehdä samaa työtä uudestaan ja uudestaan.
+
+Tämä projekti on tehnyt minusta avoimen tieteen periaatteiden kannattajan, ja olen yrittänyt tehdä oman osuuteni julkaisemalla keskeisiä ohjelmakoodeja, jotka ovat tarpeen terveydenhuollon rekisterien esikäsittelyssä.
+
+Mielestäni jokaisen, joka suhtautuu tieteelliseen metodiin vakavasti, tulisi tehdä parhaansa jakaakseen menetelmänsä, vaikka kukaan ei edes pyytäisi. Minulle siitä olisi ollut valtava hyöty, ja toivon, että mahdolliset tulevat tutkijat voivat hyötyä edes hieman omasta panoksestani.
+
+
+
+
 

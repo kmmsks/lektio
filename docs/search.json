@@ -46,6 +46,20 @@
     "href": "index.html#kuva",
     "title": "Johdantoluento",
     "section": "Kuva",
-    "text": "Kuva"
+    "text": "Kuva\nTämä Christian Hakulisen kuva havainnollistaa joitain keskeisiä näkökohtia tulojen ja mielenterveysongelmien välisestä suhteesta.\nTässä näemme mediaanitulot ennen ja jälkeen ensimmäisen psykoosin vuoksi olleen sairaalahoitojakson. Onko tämä ero alussa psykoosin syy?\nToinen tärkeä asia on mitä tapahtuu ensimmäisen hoitojakson jälkeen. Tätä kutsutaan usein valikoitumiseksi tai käänteiseksi syy-seuraussuhteeksi. Sanotaan, että olet lapsi tässä perheessä, tai tässä vertailuperheessä, mitä tämä ero saattaa merkitä sinulle terveyden määrääjien tai tulevaisuuden mahdollisuuksiesi kannalta? Tai toisin päin, mihin suuntaan tämän viivan tulisi mennä? Kiitos järjestelmämme, kokonaistulot pysyvät vakaana sairastumisen jälkeen, mutta mikä olisi optimaalisin tilanne?\nVirchowin lausahusa mukaillen väitän, että tämä ei ole lääketiedettä suuremmassa mittakaavassa. Tämä on politiikkaa suuremmassa mittakaavassa. Kysymys on siitä millaisia hyvinvoinnin standardeja haluamme pohjoismaisessa yhteiskunnassamme ylläpitää.\nTämä väitöskirja ei tuo tähän kysymykseen mitään valmista vastusta, mutta mielestäni Suomessa, maailman onnellisimmaksi valitussa maassa, meidän pitäisi olla aktiivisempia johtamaan keskustelua tasa-arvosta ja terveydestä.\nHaluaisin nostaa esiin vielä kaksi asiaa:\nEnsinnäkin, tämä tutkimus ei käsittele tuloeroja, mutta ne ovat luonnollisesti läheisessä yhteydessä terveyden epätasa-arvoon.\n“Inequalities” voidaan kääntää ilmaisuilla ‘epätasa-arvo’ tai ‘eriarvoisuus’. Ne ovat eroja, jotka ovat jollain tavalla epäoikeudenmukaisia, epäreiluja luonteeltaan, joskin englannin kieli ei ole tässä täysin johdonmukainen. Inequalities voi joskus viitata eroihin ilman mitään moraalista arviota.\nOnko tuloerot kasvaneet Suomessa vai ei, on kiinnostava kysymys. Valitsin olla kommentoimatta sitä väitöskirjassani, mutta nämä kaksi kuvaa valaisee asiaa:"
+  },
+  {
+    "objectID": "index.html#kuvat",
+    "href": "index.html#kuvat",
+    "title": "Johdantoluento",
+    "section": "Kuvat",
+    "text": "Kuvat\nEnsin Gini-kerroin, jonka suuremmat arvot kuvaavat suurempia tuloeroja. Esim. Valtion taloudelllinen tutkimuslaitos juuri julkaisi raportin, jonka mukaan tuloerot eivät juurikaan ole muuttuneet 2000-luvulla.\nToisessa kuvassa tulojen kehitys tulokymmenyksittäin. 1995-2022, muutos oli 26 % alimmassa tulokymmenyksessä, mutta 91 % ylimmässä.\nMyöhemmin katsomme muita trendejä tulokymmenyksittäin."
+  },
+  {
+    "objectID": "index.html#avoin-tiede",
+    "href": "index.html#avoin-tiede",
+    "title": "Johdantoluento",
+    "section": "Avoin tiede",
+    "text": "Avoin tiede\nJa lopuksi: Tämän projektin ensimmäisen tutkimussuunnitelma valmistui helmikuussa 2016, sain pääsyn aineistoon maaliskuussa 2017. Ensimmäisen käsikirjoituksen valmisteluun meni 2 vuotta ja 2 kuukautta.\nSuurin osa siitä työstä oli opetella esikäsittelemään rekisteridataa. Jotain, mikä on pitänyt tehdä ennen jokaista rekisteritutkimusta.\nSe oli valtava ponnistus ja voi kysyä, kuinka järkevää on tehdä samaa työtä uudestaan ja uudestaan.\nTämä projekti on tehnyt minusta avoimen tieteen periaatteiden kannattajan, ja olen yrittänyt tehdä oman osuuteni julkaisemalla keskeisiä ohjelmakoodeja, jotka ovat tarpeen terveydenhuollon rekisterien esikäsittelyssä.\nMielestäni jokaisen, joka suhtautuu tieteelliseen metodiin vakavasti, tulisi tehdä parhaansa jakaakseen menetelmänsä, vaikka kukaan ei edes pyytäisi. Minulle siitä olisi ollut valtava hyöty, ja toivon, että mahdolliset tulevat tutkijat voivat hyötyä edes hieman omasta panoksestani."
   }
 ]
