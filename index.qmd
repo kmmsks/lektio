@@ -3,6 +3,7 @@ title: "Johdantoluento"
 subtitle: "Mielenterveyden sosiaaliset determinantit: Rekisteritutkimus"
 author: "Kimmo Suokas"
 date: "2024-04-12"
+navbar: false
 ---
 
 ## Avaus
