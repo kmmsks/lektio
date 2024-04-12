@@ -10,11 +10,11 @@ navbar: false
 
 Arvoisa kustos, arvoisa vastaväittäjä, arvoisat kuulijat,
 
-Miksi on tärkeää tutkia mielenterveyteen liittyviä sosiaalisia tekijöitä? Miksi lääkärit eivät keskity lääketieteellisiin tekijöihin, joku saattaisi kysyä.
+Miksi on tärkeää tutkia mielenterveyteen liittyviä sosiaalisia tekijöitä?
 
 Yksinkertaisen vastauksen tähän kysymykseen kuulin Psykiatrian maailmankongressissa Madridissa vuonna 2014.
 
-Maailman psykiatriyhdistyksen silloinen presidentti Dinesh Bhugra ilmaisi asian hyvin aselkeästi:
+Maailman psykiatriyhdistyksen silloinen presidentti Dinesh Bhugra ilmaisi asian aselkeästi:
 
 ## Kaikki psykiatria on sosiaalista - Dinesh Bhugra
 
@@ -24,25 +24,23 @@ Saattaa olla niin, mutta tässä valossa koin lauseen "Kaikki psykiatria on sosi
 
 Mutta mitä tarkoittaa, että kaikki psykiatria on sosiaalista?
 
-On selvää, että yksilöt toimivat aina osana erilaisia sosiaalisia järjestelmiä ja rakenteita, ja sosiaalinen vuorovaikutus on keskeistä mielenterveyden kannalta, määritelmän mukaankin. Lisäksi vuorovaikutus on tietenkin keskeinen osa kliinistä psykiatriaa.
+On selvää, että ihminen on sosiaalinen olento ja erilaiset sosiaaliset normit ja odotukset vaikuttavat psykiatriaan.
 
-Lisäksi erilaiset sosiaaliset normit ja odotukset vaikuttavat psykiatriaan, niin diagnostikkaan kuin hoitoonkin. Uskon, että niin on aina ollut ja niin on aina oleva. Mielestäni se on enemmän psykiatrian vahvuus kuin heikkous.
-
-Mutta on vielä muutakin. Kyseisessä kongressissa käsiteltiin kysymyksiä syrjinnästä ja muista mielenterveyshäiriöihin liittyvistä haitallisista seurauksista sekä yleisestä sosiaalisesta oikeudenmukaisuudesta. Esimerkiksi Euroopan entisissä siirtomaissa psykiatrisissa laitoksissa ja lainsäädännössä saattaa olla piirteitä, jotka eivät koskaan ole olleet sopusoinnussa paikallisten tapojen ja käytänteiden kanssa. Monissa maissa perheenjäsenet kantavat kohtuutonta taakaa sukulaistensa hoidosta. Dinesh Bhugra oli johtanut tutkimusta, joka osoittaa, että monissa maissa mielenterveysongelmaisilta ihmisiltä evätään edelleen heidän äänioikeutensa tai muita perusoikeuksia.
+Mutta on vielä muutakin. Kyseisessä kongressissa käsiteltiin kysymyksiä syrjinnästä ja muista mielenterveyshäiriöihin liittyvistä haitallisista seurauksista sekä yleisestä sosiaalisesta oikeudenmukaisuudesta.  Monissa maissa perheenjäsenet kantavat kohtuutonta taakaa sukulaistensa hoidosta. Dinesh Bhugra oli johtanut tutkimusta, joka osoittaa, että monissa maissa mielenterveysongelmaisilta ihmisiltä evätään edelleen heidän äänioikeutensa tai muita perusoikeuksia.
 
 Olen varma, että tällainen globaali epäoikeudenmukaisuus resonoi mielenterveysalalla työskentelevien piirissä.
 
-Mutta mitä sokeita pisteitä liittyy psykiatriaan Suomessa? Kliinisen kokemukseni perusteella tuolloin epäilin, että kyse ei ole vain yhteiskunnallisista tekijöistä, vaan ongelmia saattaa olla myös terveydenhuoltojärjestelmässä. Todellakin, löytyy tutkimusartikkeleita, jotka osoittavat esimerkiksi, että ihmiset, joilla on diagnosoitu psykoottisia mielenterveyden häiriöita, saavatusein vähemmän intensiivistä ja vähemmän tehokasta hoitoa sydänsairauksiin kuin muut jopa Suomessa. Olin  yllättynyt siitä, miten vähän tämä asia oli esillä.
+Mutta mitä sokeita pisteitä liittyy psykiatriaan Suomessa? Tutkimukset osoittavat esimerkiksi, että ihmiset, joilla on diagnosoitu psykoottisia mielenterveyden häiriöita, saavatusein vähemmän intensiivistä ja vähemmän tehokasta hoitoa sydänsairauksiin kuin muut jopa Suomessa ja Tanskassa. Olin  yllättynyt siitä, miten vähän tämä asia oli esillä.
 
-Mutta mitä tulee psykiatriaan itseensä? Kiinnostuin siitä, ovatko diagnosointikäytännöissä eroja, jotka saattavat liittyä mielenterveyshäiriöiden epätasa-arvoihin. Vaikka alun perin tutkimussuunnitelmani oli tutkia tätä hypoteesia tohtorinprojektissani, huomasin, että on muitakin perustavanlaatuisia sosiaalisesti suuntautuneita psykiatrisia epidemiologisia aiheita, joihin kannattaa ensin syventyä.
+Mm. ämä sai minut kiinnostumaan terveyteen liittyvästä epätasa-arvosta.
 
-Puhuttaessa sosiaalisista tekijöistä mielenterveydessä on hyvä pitää mielessä, että tämä teema sijoittuu pitkälle tieteelliselle jatkumolle. Siksi haluaisin jakaa toisen lainauksen:
+Puhuttaessa sosiaalisista tekijöistä mielenterveydessä on hyvä pitää mielessä, että tämä teema sijoittuu pitkälle tieteelliselle jatkumolle. Siksi haluaisin jakaa lisää lainauksia:
 
 ## Lääketiede on sosiaalitiedettä ja politiikka on lääketiedettä isossa mittakaavassa - Rudolf Virchow, 1848
 
 Patologian oppikirjat kutsuvat usein Virchowia solupatologian perustajaksi. Se on teoria, jonka mukaan kaikki sairaudet voidaan ymmärtää solujen toiminnan ja toimintahäiriöiden perusteella.
 
-Teknisesti tämä lausunto ei ole tietenkään täysin totta, mutta tätä lausetta siteerataan melko yleisesti kansanterveysalan kirjallisuudessa. Luulen, että ihmiset ovat lumoutuneita tämän näkökulman kokonaisvaltaisuudesta, kun se on sanonut henkilö, joka oli niin merkittävä solujen ja patologian tutkija.
+Teknisesti tämä lausunto ei ole tietenkään täysin totta, mutta tätä lausetta siteerataan melko yleisesti kansanterveysalan kirjallisuudessa.
 
 Niin tai näin, tässä valossa "kaikki psykiatria on sosiaalista" ei ehkä ole enää niin radikaali.
 
@@ -80,9 +78,9 @@ Mielenterveyden sosiaalisten determinanttien osalta tämä on tärkeä asia, kos
 
 Näillä ajatuksilla haluan korostaa sitä, että terveyen sosiaalisten determinanttien tutkiminen on monimutkaista, koska monet asiat vaikuttavat samaan aikaan.
 
-Tulojen ja terveyden tapauksessa on erityisen ilmeistä, että rahan jakautuminen yhteiskunnassa määräytyy - tai aiheutuu - muista monimutkaisista tekijöistä, kuten henkilökohtaiset ominaisuudet, sosiaalinen liikkuvuus, poliittiset valinnat, maailmantalous jne.
+Tulojen ja terveyden tapauksessa on erityisen ilmeistä, että rahan jakautuminen yhteiskunnassa määräytyy - tai aiheutuu - muista monimutkaisista tekijöistä.
 
-Tulonjako ei ole mikään luonnonvakio.
+Erityisesti tulonjako ei ole mikään luonnonvakio.
 
 Syiden ja seurauksen tunnistamisen vaikeus tulee ottaa vakavasti, mutta sen ei pidä estää meitä käsittelemästä terveyden sosiaalisia määrääjiä. Tässä on esimerkki:
 
@@ -92,7 +90,7 @@ Tämä Christian Hakulisen kuva havainnollistaa joitain keskeisiä näkökohtia 
 
 Tässä näemme mediaanitulot ennen ja jälkeen ensimmäisen psykoosin vuoksi olleen sairaalahoitojakson. Onko tämä ero alussa psykoosin syy?
 
-Toinen tärkeä asia on mitä tapahtuu ensimmäisen hoitojakson jälkeen. Tätä kutsutaan usein valikoitumiseksi tai käänteiseksi syy-seuraussuhteeksi. Sanotaan, että olet lapsi tässä perheessä, tai tässä vertailuperheessä, mitä tämä ero saattaa merkitä sinulle terveyden määrääjien tai tulevaisuuden mahdollisuuksiesi kannalta? Tai toisin päin, mihin suuntaan tämän viivan tulisi mennä? Kiitos järjestelmämme, kokonaistulot pysyvät vakaana sairastumisen jälkeen, mutta mikä olisi optimaalisin tilanne?
+Toinen tärkeä asia on mitä tapahtuu ensimmäisen hoitojakson jälkeen. Tätä kutsutaan usein valikoitumiseksi tai käänteiseksi syy-seuraussuhteeksi. Ajatellaan, että olet lapsi tässä perheessä, tai tässä vertailuperheessä, mitä tämä ero saattaa merkitä sinulle terveyden määrääjien tai tulevaisuuden mahdollisuuksiesi kannalta? Tai toisin päin, mihin suuntaan tämän viivan tulisi mennä?
 
 Virchowin lausahusa mukaillen väitän, että tämä ei ole lääketiedettä suuremmassa mittakaavassa. Tämä on politiikkaa suuremmassa mittakaavassa. Kysymys on siitä millaisia hyvinvoinnin standardeja haluamme pohjoismaisessa yhteiskunnassamme ylläpitää.
 
@@ -100,9 +98,6 @@ Tämä väitöskirja ei tuo tähän kysymykseen mitään valmista vastusta, mutt
 
 Haluaisin nostaa esiin vielä kaksi asiaa:
 
-Ensinnäkin, tämä tutkimus ei käsittele tuloeroja, mutta ne ovat luonnollisesti läheisessä yhteydessä terveyden epätasa-arvoon.
-
-"Inequalities" voidaan kääntää ilmaisuilla 'epätasa-arvo' tai 'eriarvoisuus'. Ne ovat eroja, jotka ovat jollain tavalla epäoikeudenmukaisia, epäreiluja luonteeltaan, joskin englannin kieli ei ole tässä täysin johdonmukainen. Inequalities voi joskus viitata eroihin ilman mitään moraalista arviota.
 
 Onko tuloerot kasvaneet Suomessa vai ei, on kiinnostava kysymys. Valitsin olla kommentoimatta sitä väitöskirjassani, mutta nämä kaksi kuvaa valaisee asiaa:
 
@@ -117,11 +112,8 @@ Myöhemmin katsomme muita trendejä tulokymmenyksittäin.
 
 ## Avoin tiede
 
-Ja lopuksi: Tämän projektin ensimmäisen tutkimussuunnitelma valmistui helmikuussa 2016, sain pääsyn aineistoon maaliskuussa 2017. Ensimmäisen käsikirjoituksen valmisteluun meni 2 vuotta ja 2 kuukautta.
-
-Suurin osa siitä työstä oli opetella esikäsittelemään rekisteridataa. Jotain, mikä on pitänyt tehdä ennen jokaista rekisteritutkimusta.
-
-Se oli valtava ponnistus ja voi kysyä, kuinka järkevää on tehdä samaa työtä uudestaan ja uudestaan.
+Ja lopuksi: 
+Rekisterien hyödyntäminen vaatii valtavasti esivalmisteluja, joita täytyy tehdä kaikissa tutkimusprojekteissa
 
 Tämä projekti on tehnyt minusta avoimen tieteen periaatteiden kannattajan, ja olen yrittänyt tehdä oman osuuteni julkaisemalla keskeisiä ohjelmakoodeja, jotka ovat tarpeen terveydenhuollon rekisterien esikäsittelyssä.
 
